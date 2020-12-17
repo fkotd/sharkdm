@@ -1,0 +1,6 @@
+[theme]
+name=Sharkdm
+description=A shark theme
+engine=lightdm-webkit-greeter
+url=index.html
+session=awesome
